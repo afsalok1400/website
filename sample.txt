@@ -1,0 +1,13 @@
+🔹 What is Git Configuration?
+
+Git configuration lets you set your identity, preferences, and behavior for Git commands.
+
+Git configs are stored at three levels:
+
+System – applies to all users
+
+Global – applies to your user
+
+Local – applies only to a repository
+
+Priority: Local > Global > System
